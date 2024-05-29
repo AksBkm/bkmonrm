@@ -1,0 +1,2 @@
+# bkmonrm
+Bakım Onarım Tablosu
